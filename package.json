@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "node-sass": "4.12.0",
+    "firebase": "^8.3.0",
+    "node-sass": "^4.14.1",
     "react": "^17.0.1",
     "react-dom": "^16.8.6",
     "react-router-dom": "5.0.0"
@@ -34,5 +35,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Starting our sign in section by creating a new sign in and sign up page, as well as start creating sign in component.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gajojr/lesson-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gajojr/lesson-8/issues"
+  },
+  "homepage": "https://github.com/gajojr/lesson-8#readme"
 }
